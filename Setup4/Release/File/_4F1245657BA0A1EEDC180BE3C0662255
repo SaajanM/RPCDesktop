@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="RockPaperScissors Challenge" 
+            Version="1.0" 
+            Publisher="Simple Gaming Apps" />
+  <Properties>
+    <DisplayName>RockPaperScissors Challenge</DisplayName>
+    <PublisherDisplayName>Simple Gaming Apps</PublisherDisplayName>
+    <Logo>images\G12_Rock_icon.ico</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion></OSMinVersion>
+    <OSMaxVersionTested></OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="en-us" />
+  </Resources>
+  <Applications>
+    <Application Id="" StartPage="">
+      <VisualElements DisplayName="" Description=""
+           Logo="" SmallLogo=""  
+           ForegroundText="" BackgroundColor="">
+         <SplashScreen Image="" />
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>
